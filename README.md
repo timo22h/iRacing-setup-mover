@@ -2,6 +2,14 @@
 
 ### This is the GitHub Repository to publish the application
 
+# Fix v2.4.1
+- Fixed the correct path of the Mazda cars
+
+# Update v2.4.0:
+- Added car BMW M4 GT4
+- Possibility to move setups to other locations
+- Fixed that the application throw an error if PDS file hasn't a correct name
+
 # Update v2.3.0:
 
 Added car
