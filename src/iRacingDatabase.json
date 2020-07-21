@@ -1,0 +1,205 @@
+[
+  {
+    "carName": "Mclaren",
+    "iRacingName": "mclarenmp4",
+    "series": [
+      "GTS"
+    ]
+  },
+  {
+    "carName": "BMWZ4",
+    "iRacingName": "bmwz4gt3",
+    "series": [
+      "GTS"
+    ]
+  },
+  {
+    "carName": "Pro",
+    "iRacingName": "formulamazda",
+    "series": [
+      "Mazda"
+    ]
+  },
+  {
+    "carName": "FormulaRenault",
+    "iRacingName": "formularenault20",
+    "series": [
+      "20"
+    ]
+  },
+  {
+    "carName": "FormulaRenault",
+    "iRacingName": "formularenault35",
+    "series": [
+      "35"
+    ]
+  },
+  {
+    "carName": "Porsche",
+    "iRacingName": "porsche911cup",
+    "series": [
+      "Cup"
+    ]
+  },
+  {
+    "carName": "FordGTE",
+    "iRacingName": "fordgt2017",
+    "series": [
+      "iLMS",
+      "IMSA"
+    ]
+  },
+  {
+    "carName": "FerrariGTE",
+    "iRacingName": "ferrari488gte",
+    "series": [
+      "iLMS",
+      "IMSA"
+    ]
+  },
+  {
+    "carName": "PorscheGTE",
+    "iRacingName": "porsche991rsr",
+    "series": [
+      "iLMS",
+      "IMSA"
+    ]
+  },
+  {
+    "carName": "BMWGTE",
+    "iRacingName": "bmwm8gte",
+    "series": [
+      "iLMS",
+      "IMSA"
+    ]
+  },
+  {
+    "carName": "Mercedes",
+    "iRacingName": "mercedesamggt3",
+    "series": [
+      "GTS",
+      "IMSA"
+    ]
+  },
+  {
+    "carName": "Audi",
+    "iRacingName": "audir8gt3",
+    "series": [
+      "GTS",
+      "IMSA"
+    ]
+  },
+  {
+    "carName": "Audi",
+    "iRacingName": "audirs3lms",
+    "series": [
+      "TCR"
+    ]
+  },
+  {
+    "carName": "HPD",
+    "iRacingName": "hpdarx01c",
+    "series": [
+      "iLMS"
+    ]
+  },
+  {
+    "carName": "Indy",
+    "iRacingName": "dallarair18",
+    "series": [
+      "Road",
+      "Oval"
+    ]
+  },
+  {
+    "carName": "Ferrari",
+    "iRacingName": "ferrari488gt3",
+    "series": [
+      "GTS"
+    ]
+  },
+  {
+    "carName": "AudiLMP1",
+    "iRacingName": "audir18",
+    "series": [
+      "iLMS"
+    ]
+  },
+  {
+    "carName": "PorscheLMP1",
+    "iRacingName": "porsche919",
+    "series": [
+      "iLMS"
+    ]
+  },
+  {
+    "carName": "Dallara",
+    "iRacingName": "dallaraf3",
+    "series": [
+      "F3"
+    ]
+  },
+  {
+    "carName": "V8",
+    "iRacingName": "v8supercars holden2019",
+    "series": [
+      ""
+    ]
+  },
+  {
+    "carName": "Advanced",
+    "iRacingName": "mx5 cup",
+    "series": [
+      "Mazda"
+    ]
+  },
+  {
+    "carName": "Advanced",
+    "iRacingName": "legends ford34c",
+    "series": [
+      "Legends"
+    ]
+  },
+  {
+    "carName": "LateModel",
+    "iRacingName": "latemodel",
+    "series": [
+      "Series"
+    ]
+  },
+  {
+    "carName": "SK",
+    "iRacingName": "skmodified",
+    "series": [
+      "Modified"
+    ]
+  },
+  {
+    "carName": "Mazda",
+    "iRacingName": "mx5 cup",
+    "series": [
+      ""
+    ]
+  },
+  {
+    "carName": "PorscheGT4",
+    "iRacingName": "porsche718gt4",
+    "series": [
+      "PorscheGT4"
+    ]
+  },
+  {
+    "carName": "BMWM4GT4",
+    "iRacingName": "bmwm4gt4",
+    "series": [
+      "BMWM4GT4"
+    ]
+  },
+  {
+    "carName": "Global",
+    "iRacingName": "mx5 mx52016",
+    "series": [
+      "ProdCar"
+    ]
+  }
+]
