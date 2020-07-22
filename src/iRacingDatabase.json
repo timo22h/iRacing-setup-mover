@@ -143,12 +143,12 @@
     "carName": "V8",
     "iRacingName": "v8supercars holden2019",
     "series": [
-      ""
+      "V8"
     ]
   },
   {
     "carName": "Advanced",
-    "iRacingName": "mx5 cup",
+    "iRacingName": "mx5 mx52016",
     "series": [
       "Mazda"
     ]
@@ -176,9 +176,9 @@
   },
   {
     "carName": "Mazda",
-    "iRacingName": "mx5 cup",
+    "iRacingName": "mx5 mx52016",
     "series": [
-      ""
+      "ProdCar"
     ]
   },
   {
@@ -195,11 +195,4 @@
       "BMWM4GT4"
     ]
   },
-  {
-    "carName": "Global",
-    "iRacingName": "mx5 mx52016",
-    "series": [
-      "ProdCar"
-    ]
-  }
 ]
