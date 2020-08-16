@@ -2,6 +2,13 @@
 
 ### This is the GitHub Repository to publish the application
 
+# Update v2.5.0
+- Added a check for a new version => you get a notification at application start now, if a new version is available
+- Added a database, that you don't have to download a new version for new content
+- Added application icon
+- Added link to the iRacing forum topic for more information about the software
+- Fixed a wrong setup folder for the V8 cars
+
 # Fix v2.4.1
 - Fixed the correct path of the Mazda cars
 
