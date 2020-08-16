@@ -2,6 +2,9 @@
 
 ### This is the GitHub Repository to publish the application
 
+# Hotfix v2.5.1
+- Fixed that the current iRacing season isn't hardcoded anymore
+
 # Update v2.5.0
 - Added a check for a new version => you get a notification at application start now, if a new version is available
 - Added a database, that you don't have to download a new version for new content
