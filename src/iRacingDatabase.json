@@ -195,4 +195,20 @@
       "BMWM4GT4"
     ]
   },
+  {
+    "carName": "DallaraLMP2",
+    "iRacingName": "dallarap217",
+    "series": [
+      "iLMS",
+      "IMSA"
+    ]
+  },
+  {
+    "carName": "CorvetteGTE",
+    "iRacingName": "c8rvettegte",
+    "series": [
+      "iLMS",
+      "IMSA"
+    ]
+  },
 ]
