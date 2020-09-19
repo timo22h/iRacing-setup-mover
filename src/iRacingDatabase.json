@@ -211,4 +211,11 @@
       "IMSA"
     ]
   },
+  {
+    "carName": "Ford",
+    "iRacingName": "fordgt gt3",
+    "series": [
+      "GTS"
+    ]
+  },
 ]
