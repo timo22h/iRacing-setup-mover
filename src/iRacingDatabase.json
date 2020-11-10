@@ -7,6 +7,13 @@
     ]
   },
   {
+    "carName": "MclarenF1",
+    "iRacingName": "mclarenmp430",
+    "series": [
+      "GPS"
+    ]
+  },
+  {
     "carName": "BMWZ4",
     "iRacingName": "bmwz4gt3",
     "series": [
