@@ -7,6 +7,20 @@
     ]
   },
   {
+    "carName": "LamboGT3",
+    "iRacingName": "lamborghinievogt3",
+    "series": [
+      "IMSA"
+    ]
+  },
+  {
+    "carName": "Lambo",
+    "iRacingName": "lamborghinievogt3",
+    "series": [
+      "GTS"
+    ]
+  },
+  {
     "carName": "McLarenF1",
     "iRacingName": "mclarenmp430",
     "series": [
