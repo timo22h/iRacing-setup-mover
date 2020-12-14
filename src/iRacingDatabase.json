@@ -66,7 +66,7 @@
     "carName": "FordGTE",
     "iRacingName": "fordgt2017",
     "series": [
-      "iLMS",
+      "ESS",
       "IMSA"
     ]
   },
@@ -74,7 +74,7 @@
     "carName": "FerrariGTE",
     "iRacingName": "ferrari488gte",
     "series": [
-      "iLMS",
+      "ESS",
       "IMSA"
     ]
   },
@@ -82,7 +82,7 @@
     "carName": "PorscheGTE",
     "iRacingName": "porsche991rsr",
     "series": [
-      "iLMS",
+      "ESS",
       "IMSA"
     ]
   },
@@ -90,7 +90,7 @@
     "carName": "BMWGTE",
     "iRacingName": "bmwm8gte",
     "series": [
-      "iLMS",
+      "ESS",
       "IMSA"
     ]
   },
@@ -121,7 +121,7 @@
     "carName": "HPD",
     "iRacingName": "hpdarx01c",
     "series": [
-      "iLMS"
+      "ESS"
     ]
   },
   {
@@ -143,14 +143,14 @@
     "carName": "AudiLMP1",
     "iRacingName": "audir18",
     "series": [
-      "iLMS"
+      "ESS"
     ]
   },
   {
     "carName": "PorscheLMP1",
     "iRacingName": "porsche919",
     "series": [
-      "iLMS"
+      "ESS"
     ]
   },
   {
@@ -220,7 +220,7 @@
     "carName": "DallaraLMP2",
     "iRacingName": "dallarap217",
     "series": [
-      "iLMS",
+      "ESS",
       "IMSA"
     ]
   },
@@ -228,7 +228,7 @@
     "carName": "CorvetteGTE",
     "iRacingName": "c8rvettegte",
     "series": [
-      "iLMS",
+      "ESS",
       "IMSA"
     ]
   },
