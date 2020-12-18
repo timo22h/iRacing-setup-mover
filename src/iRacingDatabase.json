@@ -21,6 +21,14 @@
     ]
   },
   {
+    "carName": "BMWGT3",
+    "iRacingName": "bmwm4gt3",
+    "series": [
+      "GTS",
+      "IMSA"
+    ]
+  },
+  {
     "carName": "McLarenF1",
     "iRacingName": "mclarenmp430",
     "series": [
