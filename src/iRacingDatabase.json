@@ -126,6 +126,14 @@
     ]
   },
   {
+    "carName": "PorscheGT3",
+    "iRacingName": "porsche911rgt3",
+    "series": [
+      "GTS",
+      "IMSA"
+    ]
+  },
+  {
     "carName": "Audi",
     "iRacingName": "audirs3lms",
     "series": [
