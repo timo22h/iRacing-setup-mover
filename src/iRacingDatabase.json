@@ -3,7 +3,8 @@
     "carName": "Mclaren",
     "iRacingName": "mclarenmp4",
     "series": [
-      "GTS"
+      "GTS",
+      "IMSA"
     ]
   },
   {
@@ -150,9 +151,10 @@
     ]
   },
   {
-    "carName": "Ferrari",
-    "iRacingName": "ferrari488gt3",
+    "carName": "FerrariGT3",
+    "iRacingName": "ferrari488gt3evo",
     "series": [
+      "IMSA",
       "GTS"
     ]
   },
@@ -268,6 +270,27 @@
     "iRacingName": "dallarair01",
     "series": [
       "Formula"
+    ]
+  },
+  {
+    "carName": "MercedesF1",
+    "iRacingName": "mercedesw12",
+    "series": [
+      "MercedesF1"
+    ]
+  },
+  {
+    "carName": "HondaCivic",
+    "iRacingName": "hondacivictyper",
+    "series": [
+      "HondaCivic"
+    ]
+  },
+  {
+    "carName": "Hyundai",
+    "iRacingName": "hyundaielantracn7",
+    "series": [
+      "Hyundai"
     ]
   },
 ]
