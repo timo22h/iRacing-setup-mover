@@ -66,8 +66,15 @@
     ]
   },
   {
-    "carName": "Porsche",
+    "carName": "PorscheOLD",
     "iRacingName": "porsche911cup",
+    "series": [
+      "Cup"
+    ]
+  },
+  {
+    "carName": "Porsche",
+    "iRacingName": "porsche992cup",
     "series": [
       "Cup"
     ]
@@ -152,7 +159,7 @@
   },
   {
     "carName": "FerrariGT3",
-    "iRacingName": "ferrari488gt3evo",
+    "iRacingName": "ferrarievogt3",
     "series": [
       "IMSA",
       "GTS"
